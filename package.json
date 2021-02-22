@@ -1,0 +1,27 @@
+{
+  "name": "iriscaptchajs",
+  "version": "1.0.0",
+  "description": "iriscaptchajs is a package for using irisCaptcha on Nodejs based servers. See https://irisdev.net for more details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrisDev-net/iriscaptchajs.git"
+  },
+  "keywords": [
+    "iris-captcha",
+    "irisCaptcha",
+    "iris",
+    "captcha",
+    "captcha",
+    "irisdev"
+  ],
+  "author": "hassaniyaqoti@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/IrisDev-net/iriscaptchajs/issues"
+  },
+  "homepage": "https://github.com/IrisDev-net/iriscaptchajs#readme"
+}
