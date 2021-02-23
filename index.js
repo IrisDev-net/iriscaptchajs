@@ -1,1 +1,1 @@
-module.exports = require('./lib/irisCaptcha')
+module.exports = require('./lib/irisCaptcha');
